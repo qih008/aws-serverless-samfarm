@@ -1,6 +1,6 @@
 {
     "Parameters": {
         "SamMultipler": "1",
-        "OriginUrl": "http://serverless-app-125391620364-us-west-2-samtest.s3-website-us-west-2.amazonaws.com/"
+        "OriginUrl": "http://serverless-app-125391620364-us-west-2-samapp.s3-website-us-west-2.amazonaws.com/"
     }
 }
